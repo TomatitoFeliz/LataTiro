@@ -25,7 +25,6 @@ public class Detector : MonoBehaviour
         {
             cuenta++;
         }
-        Debug.Log(cuenta);
     }
 
     private void Update()
